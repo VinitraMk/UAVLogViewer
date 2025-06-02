@@ -71,7 +71,7 @@ dependencies:
       - idna==3.10
       - jiter==0.10.0
       - jsonpointer==3.0.0
-      - langchain-core==0.3.60
+      - langchain-core
       - langchain-openai==0.3.18
       - langgraph==0.4.7
       - langgraph-checkpoint==2.0.26
