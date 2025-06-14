@@ -196,10 +196,12 @@ export default {
     color: white;
     font-weight: 700;
     border: none;
+    cursor: pointer;
 }
 
 .uav-chat-btn:disabled {
     background: #5b5a59;
+    cursor: not-allowed;
 }
 
 .uav-chat-processing {
