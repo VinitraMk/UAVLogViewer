@@ -1,6 +1,6 @@
 # UAV Log Viewer - Agentic Chatbot
 
-![log seeking](preview.gif "Logo Title Text 1")
+![log seeking](preview.gif "Logo Title Text 2")
 
 <!-- This is a Javascript based log viewer for Mavlink telemetry and dataflash logs.
  [Live demo here](http://plot.ardupilot.org).
